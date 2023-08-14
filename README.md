@@ -203,3 +203,8 @@ done
 <p align="center">
  <img src="https://github.com/TooTouch/BalancedSoftmax/blob/main/assets/figure2.jpg?raw=true"><br>Figure 2. Imbalance factor에 따른 실험 결과 class별 성능
 </p>
+
+
+<p align="center">
+ <img src="https://github.com/TooTouch/BalancedSoftmax/blob/main/assets/figure3.jpg?raw=true"><br>Figure 3. CIFAR10LT에 대한 cross entropy와 balanced softmax 간 confusion matrix 비교. Imbalance factor(IF)는 200.
+</p>
