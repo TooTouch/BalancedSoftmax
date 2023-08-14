@@ -162,4 +162,3 @@ cython_debug/
 wandb/
 docker/
 results/
-*.ipynb
